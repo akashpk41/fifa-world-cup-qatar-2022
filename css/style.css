@@ -1,0 +1,13 @@
+/* common or utilities style */
+
+header {
+    background: rgb(44 44 61 / 86%);
+}
+
+header:hover .col-lg-7 img {
+    transform: rotate(1deg);
+}
+
+.social-links img {
+    width: 30px;
+}
